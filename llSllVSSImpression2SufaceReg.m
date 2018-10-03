@@ -30,5 +30,8 @@ VSST1505074L = ht2VSS(inv(ht))
 load([blank2placeddir '15-05074-R_STLXform.mat']);
 VSST1505074R = ht2VSS(inv(ht))
 333
+<<<<<<< HEAD
  this is a change made to the master file
  this is another change made to the master file
+this is a change made toa branch
+ this is a change made to the master file
