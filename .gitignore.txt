@@ -1,0 +1,9 @@
+*.aux
+*.bbl
+*.pdf
+*.blg
+*.toc
+*.log
+*.asv
+*.mat
+*.stl
