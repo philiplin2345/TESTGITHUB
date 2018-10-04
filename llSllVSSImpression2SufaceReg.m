@@ -36,4 +36,9 @@ this is a change made toa branch
  this is a change made to the master file
 change 5
 change 6
+
 A CHANGE AFTER I CHANGED THE DOCEMENT AT HOME
+
+change at home 1 using tortoise
+this is change made at my house using git software
+achange made at my house using git bash
